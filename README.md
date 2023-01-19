@@ -28,7 +28,7 @@
 
 - :seedling: Programo em python, trabalho com bancos de dados relacionais e não relacionais 
 
-- :zap: Posso criar modelos de ML e deep learn com keras, tensor flow, MLlib e scikit-learn
+- :zap: Posso criar modelos de ML e deep learning com keras, tensor flow, MLlib e scikit-learn
 
 - :mailbox: Eu também publico meus projetos no Kaggle: [![Kaggle Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/diegosilvadefrana)
   
