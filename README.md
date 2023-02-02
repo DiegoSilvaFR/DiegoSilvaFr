@@ -21,11 +21,7 @@
  
 
 
-- :telescope: Olá! Eu sou um estudante de ciência de dados!
+Sou um estudante apaixonado por ciência de dados, com habilidades sólidas em programação em Python e trabalho com bancos de dados tanto relacionais quanto não relacionais. Tenho experiência em criar modelos de aprendizado de máquina usando Keras, TensorFlow, MLlib e scikit-learn. Além disso, sou ativo no Kaggle, onde publico meus projetos e competo com outros cientistas de dados. Estou constantemente em busca de aprender mais e melhorar minhas habilidades na área.
 
-- :seedling: Programo em python, trabalho com bancos de dados relacionais e não relacionais 
-
-- :zap: Posso criar modelos de ML e deep learning com keras, tensor flow, MLlib e scikit-learn
-
-- :mailbox: Eu também publico meus projetos no Kaggle: [![Kaggle Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/diegosilvadefrana)
+- :mailbox:Kaggle: [![Kaggle Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/diegosilvadefrana)
   
