@@ -24,8 +24,8 @@
 Sou um estudante apaixonado por ciência de dados, com habilidades sólidas em programação em Python e trabalho com bancos de dados tanto relacionais quanto não relacionais. Tenho experiência em criar modelos de aprendizado de máquina usando Keras, TensorFlow, MLlib e scikit-learn. Além disso, sou ativo no Kaggle, onde publico meus projetos e compito com outros cientistas de dados. Estou constantemente em busca de aprender mais e melhorar minhas habilidades na área.
 
 - :mailbox:Kaggle: [![Kaggle Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/diegosilvadefrana)
- <a href="https://www.linkedin.com/in/diego-silva-de-fran%C3%A7a-34a18b250/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ <a href="https://tensorflow.org/" >
+    <img src="https://img.shields.io/badge/TensorFlow - orange ?style=for-the-badge&logo=TensorFLow&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="diegofranca@fisica.ufc.br">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
