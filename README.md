@@ -30,6 +30,6 @@ Sou um estudante apaixonado por ciência de dados, com habilidades sólidas em p
   <a href="https://scikit-learn.org/stable/">
     <img src="https://img.shields.io/badge/scikit-learn-blue?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://twitter.com/Anaborable">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://spacy.io/">
+    <img src="https://img.shields.io/badge/spaCy-blue?style=for-the-badge&logo=spaCy&logoColor=white" alt="Twitter Badge"/>
   </a>
