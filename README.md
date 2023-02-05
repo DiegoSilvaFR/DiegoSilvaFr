@@ -33,3 +33,9 @@ Sou um estudante apaixonado por ciência de dados, com habilidades sólidas em p
   <a href="https://spacy.io/">
     <img src="https://img.shields.io/badge/spaCy-blue?style=for-the-badge&logo=spaCy&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=OpenCV&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-Blue?style=for-the-badge&logo=Python&logoColor=Black" alt="Twitter Badge"/>
+  </a>
