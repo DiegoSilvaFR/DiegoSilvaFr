@@ -27,8 +27,8 @@ Sou um estudante apaixonado por ciência de dados, com habilidades sólidas em p
  <a href="https://tensorflow.org/" >
     <img src="https://img.shields.io/badge/TensorFlow - orange ?style=for-the-badge&logo=TensorFLow&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="diegofranca@fisica.ufc.br">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="https://scikit-learn.org/stable/">
+    <img src="https://img.shields.io/badge/scikit-learn-blue?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://twitter.com/Anaborable">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
