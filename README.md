@@ -21,7 +21,15 @@
  
 
 
-Sou um estudante apaixonado por ciência de dados, com habilidades sólidas em programação em Python e trabalho com bancos de dados tanto relacionais quanto não relacionais. Tenho experiência em criar modelos de aprendizado de máquina usando Keras, TensorFlow, MLlib e scikit-learn. Além disso, sou ativo no Kaggle, onde publico meus projetos e compito com outros cientistas de dados. Estou constantemente em busca de aprender mais e melhorar minhas habilidades na área.
+Passionate about exacts, I have a bachelor’s degree in physics
+with emphasis in the area of statistical physics and graph modeling.
+Currently, I do a master's degree in Modeling with a focus on the
+emerging area of Deep Reinforcement Learning with applications in
+logistics and Business. I am also a research fellow at the Insight
+Data Science Lab, more specifically, I am part of the group
+responsible for creating deep/machine learning algorithms for the
+detection of anomalies in data collected by smartwatches in a
+partnership between Insight and Samsung
 
 - :mailbox:Kaggle: [![Kaggle Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/diegosilvadefrana)
  <a href="https://tensorflow.org/" >
